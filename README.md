@@ -12,7 +12,7 @@ Clique [aqui](https://project-pokedex-cyan.vercel.app/) para conferir o resultad
 <span><strong>Tecnologias e Ferramentas utilizadas:</strong></span>
 <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,styledcomponents,github,git,figma" style="height: 25px;"/>
+    <img src="https://skillicons.dev/icons?i=js,react,styledcomponents,github,git" style="height: 25px;"/>
   </a>
 </p>
 
