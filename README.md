@@ -50,18 +50,6 @@ A página de **Pokedex** armazena todos os pokémons escolhidos pelo usuário. C
 
 Projeto criado para atividade final de módulo React III.
 
-### Home
-
-![Home](./pokedex/src/assets/images/home.png)
-
-### Pokedex
-
-![Pokedex](./pokedex/src/assets/images/pokedex.png)
-
-### Detalhes
-
-![Detalhes](./pokedex/src/assets/images/details.png)
-
 ## 4. Instalação
 
 ### Pré-requisitos:
@@ -92,7 +80,6 @@ Este site foi construído com:
 -   Styled-Components
 -   Axios
 -   API
--   Chakra-UI
 
 ## 7. Desenvolvedora
 
